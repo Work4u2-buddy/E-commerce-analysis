@@ -21,7 +21,7 @@ The notebook includes:
 - Training a **Support Vector Machine (SVM)** classifier  
 - Insights into customer behavior  
 
----
+--
 
 ## 📂 Dataset  
 - File used: `Ecommerce recommender using Support Vector Machine.csv`  
