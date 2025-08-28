@@ -39,11 +39,11 @@ The notebook includes:
   - `Purchase Price` 💰  
 
 ## Required Libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+pandas, 
+numpy, 
+matplotlib, 
+seaborn, 
+scikit-learn, 
 
 ## 🔍 Exploratory Data Analysis (EDA)
 Some of the steps performed:
@@ -57,9 +57,10 @@ Example:
 ```python
 df.isnull().sum()        # Check missing values
 df['Purchase Price'].max()  # Highest Purchase Price
-df['Purchase Price'].min()  # Lowest Purchase Price```
+df['Purchase Price'].min()  # Lowest Purchase Price
+````
 
-## 📈 Visualizations
+##   📈 Visualizations
 
 The notebook includes plots such as:
 Distribution of Purchase Price
